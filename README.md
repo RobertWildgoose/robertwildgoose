@@ -11,6 +11,7 @@ Passionate about crafting scalable, efficient solutions, I also maintain NuGet p
 - 🔧 Nuget Packages - Wrapping Common Apis and creating useful packages
 
 📌 Projects & Contributions
+
 🔹 [Slapp – Agile project management app for solo developers](https://play.google.com/store/apps/details?id=com.robertwildgoose.slapp)
 
 🔹 [Morsed – Learn and translate Morse code easily](https://play.google.com/store/apps/details?id=rwildgoose.morsed)
