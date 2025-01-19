@@ -1,6 +1,6 @@
 👋 Hey, I'm Robert Wildgoose!
 
-🚀 Mobile App Developer | .NET Enthusiast | Open Source Contributor
+🚀 Mobile App Developer | .NET Enthusiast | Innovator
 
 I specialize in building high-quality iOS and Android apps with .NET MAUI, Xamarin, and Blazor. 
 Passionate about crafting scalable, efficient solutions, I also maintain NuGet packages and contribute to open-source projects.
